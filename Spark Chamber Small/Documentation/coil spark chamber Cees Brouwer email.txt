@@ -1,0 +1,29 @@
+coil spark chamber Cees Brouwer
+
+Fred,
+Below the text of a message 1.5 years ago
+regarding the production of the bobbin
+For your records.
+greet
+Henk
+
+Date: Tue, 26 Oct 2005 3:38:19 p.m. +0200 (W. Europe Standard Time)
+From: Cees Brouwer <c.brouwer@hef.ru.nl>
+To: Henk Tiecke <h42@nikhef.nl>
+
+> Hello Cees,
+>
+> What exactly are the characteristics of the bobbin that
+> You wrap yourself .......
+> Well, I hope we can make it here if needed,
+> Henk
+>
+> Ha Henk,
+The primary coil has 7 turns in a layer with 0.8mm wire.
+250 secondary windings, each layer with a snug layer kapton
+(or other HV tape). This wire is 0.3mm diameter.
+The windings must be neatly next to each other.
+If at a location between the insulation is not sufficient then there is a
+instead of spark at the spark plug. Furthermore, the core from a piece of ferrite
+an AM radio or something!
+  Greetings, Cees.
