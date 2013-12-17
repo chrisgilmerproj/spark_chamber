@@ -14,30 +14,30 @@ parts
 smd - parts
 ===========
 
-| Item | Quantity | Reference                               | Part       | min | Mouser #             | Price | Total | Notes      |
-| ---- | -------- | --------------------------------------- | ---------- | --- | -------------------- | ----- | ----- | ---------- |
-| 5    | 3        | C5,C6,C8                                | 470nF      | 1   | 810-CGJ4J3X7S2A474K  | 0.98  | 2.94  | Capacitor  |
-| 6    | 1        | C9,C55,C59                              | 120pF      | 1   | 810-CGJ3E3C0G2D121J  | 0.29  | 0.29  | Capacitor  |
-| 7    | 1        | C10                                     | 2.2uF      | 1   | 810-C1005X7S0J225K   | 0.33  | 0.33  | Capacitor  |
-| 8    | 10       | C29,C43,C52,C53,C54,C56,C57,C58,C60,C61 | 100nF      | 1   | 810-CGJ5L2X7R2A104K  | 0.65  | 6.50  | Capacitor  |
-| 9    | 1        | C46                                     | 2.2nF      | 1   | 81-GRM31BR73A222KW01 | 0.33  | 0.33  | Capacitor  |
-| 28   | 6        | R1,R2,R3,R11,R93,R99                    | 1k0        | 1   | 594-MCS0402MD1001DE0 | 0.28  | 1.68  | Resistor   |
-| 29   | 1        | R87                                     | 1M5        | 1   | 660-HV732ATTD1504F   | 0.68  | 0.68  | Resistor   |
-| 31   | 3        | R5,R6,R8                                | 470k       | 1   | 756-HVC2512-470KFT18 | 0.79  | 2.37  | Resistor   |
-| 32   | 3        | R9,R91,R97                              | 10k        | 1   | 279-RN73C1J10KBTDF   | 1.06  | 3.18  | Resistor   |
-| 33   | 1        | R10                                     | 3k3        | 1   | 667-ERA-3ARW332V     | 1.38  | 1.38  | Resistor   |
-| 34   | 2        | R35,R37                                 | 1k6        | 1   | 71-TNPW08051K60BEEN  | 0.85  | 1.70  | Resistor   |
-| 35   | 1        | R12                                     | 47         | 1   | 588-RW3R5EA47R0JET   | 1.75  | 1.75  | Resistor   |
-| 39   | 2        | R26,R27                                 | 270k       | 1   | 660-HV732BTTD2703D   | 0.61  | 1.22  | Resistor   |
-| 40   | 3        | R15,R31,R32                             | 2k2        | 1   | 667-ERA-3ARW222V     | 1.38  | 4.14  | Resistor   |
-| 41   | 2        | R34,R36                                 | 470        | 1   | 660-SG733ATTE471K    | 0.86  | 1.72  | Resistor   |
-| 42   | 8        | R88,R89,R90,R94,R95,R96,R100,R101       | 10         | 1   | 588-RW0S6BB10R0FET   | 1.15  | 9.20  | Resistor   |
-| 43   | 2        | R92,R98                                 | 4k7        | 1   | 279-RN73C1J4K7BTDF   | 1.68  | 3.36  | Resistor   |
-| 48   | 3        | T1,T2,T3                                | BS170      | 1   | 522-BS170FTA         | 0.70  | 2.10  | Transistor |
-| 49   | 2        | U1,U2                                   | TL3016ID   | 1   | 595-TL3016ID         | 3.17  | 6.34  | Chip       |
-| 50   | 4        | U3,U4,U6,U7                             | 74HC123M   | 1   | 595-CD74HC123M       | 0.69  | 2.76  | Chip       |
-| 51   | 1        | U5                                      | 74HC08D    | 1   | 595-SN74HC08D        | 0.46  | 0.46  | Chip       |
-| 52   | 1        | U8                                      | 74HC240D   | 1   | 595-SN74HC240DW      | 0.60  | 0.60  | Chip       |
+| Item | Quantity | Reference                                | Part       | min | Mouser #             | Price | Total | Notes      |
+| ---- | -------- | ---------------------------------------- | ---------- | --- | -------------------- | ----- | ----- | ---------- |
+| 5    | 3        | C5,C6,C8                                 | 470nF      | 1   | 810-CGJ4J3X7S2A474K  | 0.98  | 2.94  | Capacitor  |
+| 6    | 1        | C9,C55,C59                               | 120pF      | 1   | 810-CGJ3E3C0G2D121J  | 0.29  | 0.29  | Capacitor  |
+| 7    | 1        | C10                                      | 2.2uF      | 1   | 810-C1005X7S0J225K   | 0.33  | 0.33  | Capacitor  |
+| 8    | 10       | C29,C43,C52,C53,C54, C56,C57,C58,C60,C61 | 100nF      | 1   | 810-CGJ5L2X7R2A104K  | 0.65  | 6.50  | Capacitor  |
+| 9    | 1        | C46                                      | 2.2nF      | 1   | 81-GRM31BR73A222KW01 | 0.33  | 0.33  | Capacitor  |
+| 28   | 6        | R1,R2,R3,R11,R93,R99                     | 1k0        | 1   | 594-MCS0402MD1001DE0 | 0.28  | 1.68  | Resistor   |
+| 29   | 1        | R87                                      | 1M5        | 1   | 660-HV732ATTD1504F   | 0.68  | 0.68  | Resistor   |
+| 31   | 3        | R5,R6,R8                                 | 470k       | 1   | 756-HVC2512-470KFT18 | 0.79  | 2.37  | Resistor   |
+| 32   | 3        | R9,R91,R97                               | 10k        | 1   | 279-RN73C1J10KBTDF   | 1.06  | 3.18  | Resistor   |
+| 33   | 1        | R10                                      | 3k3        | 1   | 667-ERA-3ARW332V     | 1.38  | 1.38  | Resistor   |
+| 34   | 2        | R35,R37                                  | 1k6        | 1   | 71-TNPW08051K60BEEN  | 0.85  | 1.70  | Resistor   |
+| 35   | 1        | R12                                      | 47         | 1   | 588-RW3R5EA47R0JET   | 1.75  | 1.75  | Resistor   |
+| 39   | 2        | R26,R27                                  | 270k       | 1   | 660-HV732BTTD2703D   | 0.61  | 1.22  | Resistor   |
+| 40   | 3        | R15,R31,R32                              | 2k2        | 1   | 667-ERA-3ARW222V     | 1.38  | 4.14  | Resistor   |
+| 41   | 2        | R34,R36                                  | 470        | 1   | 660-SG733ATTE471K    | 0.86  | 1.72  | Resistor   |
+| 42   | 8        | R88,R89,R90,R94, R95,R96,R100,R101       | 10         | 1   | 588-RW0S6BB10R0FET   | 1.15  | 9.20  | Resistor   |
+| 43   | 2        | R92,R98                                  | 4k7        | 1   | 279-RN73C1J4K7BTDF   | 1.68  | 3.36  | Resistor   |
+| 48   | 3        | T1,T2,T3                                 | BS170      | 1   | 522-BS170FTA         | 0.70  | 2.10  | Transistor |
+| 49   | 2        | U1,U2                                    | TL3016ID   | 1   | 595-TL3016ID         | 3.17  | 6.34  | Chip       |
+| 50   | 4        | U3,U4,U6,U7                              | 74HC123M   | 1   | 595-CD74HC123M       | 0.69  | 2.76  | Chip       |
+| 51   | 1        | U5                                       | 74HC08D    | 1   | 595-SN74HC08D        | 0.46  | 0.46  | Chip       |
+| 52   | 1        | U8                                       | 74HC240D   | 1   | 595-SN74HC240DW      | 0.60  | 0.60  | Chip       |
 
 discrete - parts
 ================
