@@ -4,7 +4,7 @@ Trigger Board
 Here is the list of the files in this directory:
 
 | Name               | Description              |
-| ================== | ======================== |
+| ------------------ | ------------------------ |
 | BOM-Spark-Ctrl.doc | Spark Controller BOM     |
 | BOM-Spark-Ctrl.txt | Spark Controller BOM     |
 | Sch-P2-SF1.pdf     | Scintillator Follower 1  |
