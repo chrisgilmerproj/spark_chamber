@@ -1,1 +1,50 @@
-HV-unit  	K.U. Nijmegen,  E-HEF  2005-04-P5          Revision: BBill  Of  Materials         	   Nov 15, 2005      		Page1Item	Quantity	Reference			Part			Farn.no	Price(x5)_________________________________________________________________0	1	pc-board ( prototype 3x ad 280,- /3 =  93,33 /stuk )				   ( productie 6x ad 209,4 /6 =  34,90 /stuk )			   ( gemiddeld 9x ad 489,4 /9 =  54,38 /stuk )	 271,901	30	C1,C2,C3,C4,C5,C6,C7, 	10uF/400V		3227984		C8,C9,C10,C11,C12,C13,		C14,C15,C16,       C21,C22,C23,C24,C25,C26,		C27,C28,C29,C30,C31,C32,						 105,00		C33,C342	9	D1,D2,D3,D4,D5,D6,D7,		BY448			995.150		D8,D0										  24,003	1	D10					W04G			646.696	   2,154	1	D11					LED			656.537	   1,205	1	E11					47uF / 35V		9451277	   0,726	2	F1,F2					TR-160mA		9516069	   9,507	7	H1,H2,H3,H4,H5,11,0		HOLE / TEST-POINT8	1	J1					PLUG AC-MALE9	8	R1,R2,R3,R4,R5,R6,R7,R8	8M2			9477250	   6,05							 ( alternative: 4659922	   4,40 )10	1	R9,R12				1M0			4659983	   1,0411	1	R11					3k912	1	T0					230V>2x18V		4384945	  40,1013	3	T1,T2,T3				2x18V>230V		4384702	  67,5014	1	RV1					varistor,715V	319.030	   3,3515	1	RV2					varistor,680V	502.728	   2,10												_______ +			TOTAAL (+ diversen a 10% = 588,- /5 ) > per stuk: 117,60  
+HV-unit
+K.U. Nijmegen,  E-HEF  2005-04-P5          Revision: B
+Bill  Of  Materials         	   Nov 15, 2005      		Page1
+
+Item	Quantity	Reference			Part			Farn.no	Price(x5)
+_________________________________________________________________
+
+0	1	pc-board ( prototype 3x ad 280,- /3 =  93,33 /stuk )
+			     ( productie 6x ad 209,4 /6 =  34,90 /stuk )
+			     ( gemiddeld 9x ad 489,4 /9 =  54,38 /stuk )	 271,90
+
+1	30	C1,C2,C3,C4,C5,C6,C7, 		10uF/400V		3227984
+		C8,C9,C10,C11,C12,C13,
+		C14,C15,C16,
+		C21,C22,C23,C24,C25,C26,
+		C27,C28,C29,C30,C31,C32,						 		105,00
+		C33,C34
+
+2	9	D1,D2,D3,D4,D5,D6,D7,		BY448			995.150
+		D8,D0										  		24,00
+
+3	1	D10							W04G			646.696	   2,15
+
+4	1	D11							LED				656.537	   1,20
+
+5	1	E11							47uF / 35V		9451277	   0,72
+
+6	2	F1,F2						TR-160mA		9516069	   9,50
+
+7	7	H1,H2,H3,H4,H5,11,0			HOLE / TEST-POINT
+
+8	1	J1							PLUG AC-MALE
+
+9	8	R1,R2,R3,R4,R5,R6,R7,R8		8M2				9477250	   6,05
+								 ( alternative: 	4659922	   4,40 )
+
+10	1	R9,R12						1M0				4659983	   1,04
+
+11	1	R11							3k9
+
+12	1	T0							230V>2x18V		4384945	  40,10
+
+13	3	T1,T2,T3					2x18V>230V		4384702	  67,50
+
+14	1	RV1							varistor,715V	319.030	   3,35
+
+15	1	RV2							varistor,680V	502.728	   2,10
+												_______ +
+
+			TOTAAL (+ diversen a 10% = 588,- /5 ) > per stuk: 117,60
