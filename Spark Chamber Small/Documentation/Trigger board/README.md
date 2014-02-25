@@ -12,11 +12,11 @@ Here is the list of the files in this directory:
 | Sch-P4-COi.pdf     | Co-Incidence Schematic   |
 | Sch-P5-Trg.pdf     | Trigger Spark Chamber    |
 | Sch-P6-Pwr.pdf     | Power Supplies Schematic |
-| SPARK-CTRL-BOT.pdf | Bottom Traces            |
-| SPARK-CTRL-DRD.pdf | Drill Holes              |
+| SPARK-CTRL-BOT.pdf | Bottom Layer             |
+| SPARK-CTRL-DRD.pdf | Drill Drawing            |
 | SPARK-CTRL-GND.pdf | Ground Points            |
 | SPARK-CTRL-PWR.pdf | Power Points             |
-| SPARK-CTRL-SMB.pdf |                          |
-| SPARK-CTRL-SMT.pdf |                          |
-| SPARK-CTRL-SST.pdf | Outlines                 |
-| SPARK-CTRL-TOP.pdf | Top Traces               |
+| SPARK-CTRL-SMB.pdf | Soldermask Bottom        |
+| SPARK-CTRL-SMT.pdf | Soldermask Top           |
+| SPARK-CTRL-SST.pdf | Silkscreen Top           |
+| SPARK-CTRL-TOP.pdf | Top Layer                |
