@@ -91,7 +91,7 @@ Discrete Parts
 | 37   | 1        | R14                   | 27                         | 1   | 594-5083NW27R00J    | 0.10  |  0.10  | Resistor            |
 | 44   |          |                       |                            |     |                     |       |        |                     |
 | 45   |          | ...                   | TP                         |     |                     |       |        |                     |
-| 53   | 1        | U10                   | 12N60A4D                   |     |                     | 0.00  |        | Transistor          |
+| 53   | 1        | U10                   | 12N60A4D                   | 1   | 512-HGTP12N60A4D    | 2.30  |  2.30  | MOSFET              |
 | 54   | 1        | U14                   | LM7805                     | 1   | 512-LM7805CT        | 0.68  |  0.68  | Transistor          |
 | 55   | 1        | U15                   | LM7905                     | 1   | 512-LM7905CT        | 0.60  |  0.60  | Transistor          |
 | 56   | 1        | U16                   | LM7812                     | 1   | 512-LM7812CT        | 0.71  |  0.71  | Transistor          |
